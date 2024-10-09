@@ -1,0 +1,18 @@
+{
+    "name": "Football Players NFT Collection",
+    "description": "An exclusive collection of NFTs representing football players.",
+    "image": "https://green-total-felidae-639.mypinata.cloud/ipfs/QmdDTuf5QVCSrENgGkJkjRYNAGhVW3siXB95fJLaznM2S2",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x1EAC314ECE88f4D6B15dcdFa1aD0Fe1ad3A45A3a",
+    "team": {
+      "name": "Vinicius Barbieri",
+      "role": "Developer",
+      "linkedin": "https://linkedin.com/in/vinibarbieri",
+      "github": "https://github.com/vinibarbieri"
+    },
+    "category": "Sports",
+    "tags": ["Football", "Players", "Collectibles", "NFT"],
+    "release_date": "2024-10-09",
+    "token_standard": "ERC-721"
+  }
+  
