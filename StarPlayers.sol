@@ -38,7 +38,7 @@ contract StarPlayers is ERC721, IERC2981, Ownable {
             currentSupply: 0,
             maxSupply: 10,
             mintPrice: 0.01 ether,
-            baseURI: "https://green-total-felidae-639.mypinata.cloud/ipfs/QmbDYXCqQUetMbXMG2FJhTtu8hWjWMnANY1dQE54vmZhe4/"
+            baseURI: "https://green-total-felidae-639.mypinata.cloud/ipfs/QmaQcSjp66Xsxo2GKyk4wM5ohsYgcDVvGx1qrsVV69o12a/"
         });
         players[2] = Player({
             currentSupply: 0,

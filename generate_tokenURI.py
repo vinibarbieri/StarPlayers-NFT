@@ -51,7 +51,7 @@ def create_metadata(name, description, image_url, position, jersey_number, age, 
 players = [
     {
         "name": "Luca Barbosa",
-        "description": "Exclusive NFT of forward João Silva in action for London FC.",
+        "description": "Exclusive NFT of forward Luca Barbosa in action for London FC.",
         "image_url": "https://green-total-felidae-639.mypinata.cloud/ipfs/QmRnLzo8Qge62k5Cr9a7p6dZTZt3HtbzuXq8nHLu8wmec2",
         "position": "Forward",
         "jersey_number": 27,
