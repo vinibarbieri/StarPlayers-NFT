@@ -17,7 +17,7 @@
 
 ## 🚀 Deployment
 
-The contract is deployed on the Polygon testnet 🌐. Ensure you have test MATIC for minting or purchasing the mystery box.
+The contract is deployed on the Amoy testnet 🌐. Ensure you have test MATIC for minting or purchasing the mystery box.
 
 ## 🛠 Tech Stack
 
@@ -28,7 +28,7 @@ The contract is deployed on the Polygon testnet 🌐. Ensure you have test MATIC
 ## 📜 Contract Details
 
 - **Royalty Fee**: 5% on all secondary sales 💵.
-- **Mint Prices**: Range from 0.001 to 0.01 ETH depending on player type.
+- **Mint Prices**: Range from 0.001 to 0.01 MATIC depending on player type.
 - **Max Supply**: Each player type has a maximum number of NFTs that can be minted.
 
 ## 🎮 How to Use
