@@ -17,7 +17,7 @@
 
 ## 🚀 Deployment
 
-The contract is deployed on the Ethereum testnet 🌐. Ensure you have test ETH for minting or purchasing the mystery box.
+The contract is deployed on the Polygon testnet 🌐. Ensure you have test MATIC for minting or purchasing the mystery box.
 
 ## 🛠 Tech Stack
 
@@ -34,9 +34,9 @@ The contract is deployed on the Ethereum testnet 🌐. Ensure you have test ETH 
 ## 🎮 How to Use
 
 1. **Mint a Specific Player**:
-   - Call `mint(uint8 typeId)` with the appropriate ETH to mint a specific player type 💰.
+   - Call `mint(uint8 typeId)` with the appropriate MATIC to mint a specific player type 💰.
 2. **Purchase a Mystery Box**:
-   - Call `mintMysteryBox()` with 0.005 ETH to receive a randomly selected player card 🃏.
+   - Call `mintMysteryBox()` with 0.005 MATIC to receive a randomly selected player card 🃏.
 
 ## 📄 License
 
