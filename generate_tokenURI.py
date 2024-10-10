@@ -42,7 +42,7 @@ def create_metadata(name, description, image_url, position, jersey_number, age, 
         os.makedirs(player_folder, exist_ok=True)
 
         # Salvando cada arquivo com seu número
-        filename = f"{player_folder}/{rarity.lower()}_{i}.json"
+        filename = f"{player_folder}/{i}.json"
         with open(filename, 'w') as f:
             json.dump(metadata, f, indent=4)
         print(f"Arquivo {filename} criado.")
